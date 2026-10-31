@@ -42,13 +42,15 @@ The resulting electrical discharge (spark, plasma channel) is not a chaotic path
 * **Geometric Anchoring:** The discharge arc stabilizes macroscopically because the flowing plasma aligns precisely with the serially multiplied vector ejected from the tip. The arc forms a instantaneous physical bridge, linking the internal singularity network of the receiving coordinate directly to the emitter's apex conduit.
 * **Fractal Verification:** The characteristic branching and fractal geometry of electric sparks provide empirical evidence of this mechanism. The arc's morphology is a real-time visual mapping of the erupted spacetime fabric as it diffuses and interacts with the macroscopic grid upon exiting the apex.
 
-### 4. Morphological Autodegradation and Structural Flex
-The material morphology itself acts as a primary vector for physical wear and structural failure. A stark contrast exists between a rigid corner point and a sharp, acute-angled blade:
+### 4. Topological Hierarchy of Freedom and Resonance
+The structural integrity and vulnerability of any material geometry within the IST-GEM framework are governed by a strict hierarchical distribution of spatial freedom degrees within the spacetime network:
 
-* **The Rigid Corner Constraint:** At a blunt 90-degree or obtuse corner, the internal spacetime maintenance vector is rigidly locked by the surrounding lattice geometry. When it suffers a mechanical impact, the energy cannot be distributed or dissipated through spatial displacement (bending). Because the spacetime fabric anchoring this specific geometry is localized and inflexible, the kinetic energy instantly shears the weakly anchored peripheral atoms, causing a clean, rapid fracture.
-* **The Acute Blade Flexibility:** In contrast, an acute-angled blade (a wedge with a highly narrow internal angle) permits a higher degree of freedom. Under impact, the morphology allows the physical material to flex and bend. This elastic deformation is actually the macroscopic manifestation of the spacetime network dynamically redirecting the sudden kinetic overload along the directional lattice channels, rather than letting it snap the existential anchor. 
+* **Maximum Freedom (Internal Lattice):** Atoms deeply embedded within the core of the material structure possess the highest stability. The surrounding nuclear density creates a fully symmetric, mutually reinforcing shield, allowing the spacetime network to perform its maintenance cycles with perfect equilibrium.
+* **Half-Freedom (Flat Surfaces):** Atoms located on flat, planar surfaces experience a transitional state. Because they lack neighboring nuclei on their outer boundary, the network loses exactly half of its localized anchoring force. This partial degradation of containment explains continuous, slow macroscopic wear.
+* **Minimum Freedom (Rigid Corners):** At a blunt 90-degree corner, spatial geometry creates an over-determined, inflexible grid layout. The coordinates are rigidly locked in place with minimal dynamic freedom. When a mechanical impact occurs, the spacetime fabric cannot flex or distribute the stress; the kinetic energy instantly shears the trapped coordinates, resulting in immediate failure (chipping).
+* **Morphological Liberation (Resonant Dissipation):** In thin, acute-angled structures (like sharp blades), the morphology fundamentally alters this vulnerability. By dropping the lateral confinement, the thin geometry liberates the local spacetime fabric, allowing it to vibrate and engage in harmonic resonance. Upon physical impact, the morphology removes the burden from a single coordinate: the energy is converted into a resonant wave that dissipates harmlessly through the open directional channels of the lattice.
 
-Consequently, material morphology dictates whether an external force is absorbed through geometric flex or converted into immediate, localized topological failure (chipping and snapping).
+Consequently, material survival is not a question of mass, but a balance between spatial confinement and wave-absorptive resonance.
 
 ## License
 
