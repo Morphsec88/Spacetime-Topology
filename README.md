@@ -1,4 +1,4 @@
-
+<img width="480" height="720" alt="tűű" src="https://github.com/user-attachments/assets/85d276a2-4686-44e5-a593-bff8dc2ffca9" />
 
 
 # Inverted Spacetime Topology & Geometric Eruption Model
