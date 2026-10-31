@@ -35,7 +35,12 @@ The geometry of the needle (or cone) generates a distinct topological pressure g
 * **The Hierarchical Order:** This massive, collective internal energy cannot remain static. It naturally creates a vector, pushing the momentum forward from the high-density (thick) zone toward the low-density (thin) zone. This establishes a strict hierarchical order of propagation.
 * **The Funnel Effect:** The shaft of the needle functions as a structural waveguide. The vast existential potential generated at the thick base is forced into a progressively decreasing number of atomic channels. As the flow advances toward the apex, the energy density accelerates exponentially and condenses, preparation for the geometric eruption at the tip.
 
----
+3. Arc-Detection & Dynamic Topological Bridging
+The resulting electrical discharge (spark, plasma channel) is not a chaotic pathfinding process through dielectric breakdown. Instead, it acts as an active topological probe that directly detects and locks onto the internal spacetime eruption. 
+
+* **Resonant Pathfinding:** As spacetime thinning reduces the isolation barrier at the apex to zero, the erupted maintenance energy projects a structured topological conduit into the intermediate medium. The advancing discharge arcs (leaders and streamers) actively scan and detect this localized fabric alteration, rather than blindly following classical electrostatic field lines.
+* **Geometric Anchoring:** The discharge arc stabilizes macroscopically because the flowing plasma aligns precisely with the serially multiplied vector ejected from the tip. The arc forms a instantaneous physical bridge, linking the internal singularity network of the receiving coordinate directly to the emitter's apex conduit.
+* **Fractal Verification:** The characteristic branching and fractal geometry of electric sparks provide empirical evidence of this mechanism. The arc's morphology is a real-time visual mapping of the erupted spacetime fabric as it diffuses and interacts with the macroscopic grid upon exiting the apex.
 
 ## License
 
