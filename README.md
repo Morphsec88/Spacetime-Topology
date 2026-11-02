@@ -14,17 +14,15 @@ The physical existence of matter is driven from the inside out, originating from
 * Fully within the deep structural phase of the atomic lattice.
 # Inside-Out Spacetime Anchoring Model (ISAM)
 
-An alternative theoretical physics framework exploring the macro-physical behavior of matter as a direct consequence of inside-out spacetime geometry and existential maintenance energy distribution.
 
-## Theoretical Foundations
 
-### Theorem 1: Centrifugal Existential Flux and Boundary Erosion
+### 1: Centrifugal Existential Flux and Boundary Erosion
 The observed patterns of macroscopic physical degradation and wear predict an asymmetric structural anchoring of the spacetime continuum. The loss of interfacial cohesion occurring during mechanical erosion demonstrates that the existential maintenance energy animating material integrity follows a centrifugal, inside-out distribution. If structural stabilization propagated inward as a centripetal flux from an external source, peripheral coordinates would receive the most direct reinforcement. However, because structural deconstruction initiates at the outermost atomic layers, it confirms that the local spacetime fabric progressively sheds its anchoring tension as the distance from the internal core increases.
 
-### Theorem 2: Compressive Limitations and Spatial Plastic Escape
+### 2: Compressive Limitations and Spatial Plastic Escape
 The mechanical compression of any solid or liquid phase substance is bounded by rigid density thresholds. External volume-reduction vectors fail to deconstruct the internal spatial coordinates; instead, they trigger intense thermal excitation within the lattice framework—converting the structural impedance into thermodynamic energy—which represents a technologically impenetrable physical barrier. Conversely, when the system enters an expansional trajectory under external stress, the internal energy evades collapse, liberating itself through radical morphogenesis and maximum spatial distribution. This plastic deformation and tensile elongation represent the geometric "escape" of spacetime itself from local confinement.
 
-### Theorem 3: Localized Vacuum Anomalies and Plastic Dilatation
+### 3: Localized Vacuum Anomalies and Plastic Dilatation
 Under intense tensile or flexural stress, atoms along the exterior boundary of the bending arc diverge, generating microscopic voids within the lattice framework. This phenomenon constitutes the solid-phase analogue of fluid cavitation; however, due to the rigid geometry of the solid phase, these vacancies cannot collapse back into their original configurations. Consequently, the spacetime fabric undergoes localized rarefaction, leaving permanent vacuum anomalies and a measurable macroscopic volume expansion (plastic dilatation). 
 
 If a continuous, critical compressive pressure were applied concurrently with the flexural deformation, the genesis of these micro-voids would be entirely suppressed. Crucially, the extreme compression required to re-establish atomic alignment operates as an inside-out force rather than an outside-in constraint, as the mechanically constrained atoms reach their original bonding coordinates before the total macroscopic volume can compress below its ground-state baseline. This asymmetrical inertia demonstrates that the geometric anchor binding matter is exclusively an expansive vector potential driven from the inside out.
