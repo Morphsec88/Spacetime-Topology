@@ -27,6 +27,12 @@ Under extreme external compression, the system transitions from localized partic
 
 If a continuous, critical compressive pressure were applied concurrently with the flexural deformation, the genesis of these micro-voids would be entirely suppressed. Crucially, the extreme compression required to re-establish atomic alignment operates as an inside-out force rather than an outside-in constraint, as the mechanically constrained atoms reach their original bonding coordinates before the total macroscopic volume can compress below its ground-state baseline. This asymmetrical inertia demonstrates that the geometric anchor binding matter is exclusively an expansive vector potential driven from the inside out.
 
+<img width="1824" height="1808" alt="generator" src="https://github.com/user-attachments/assets/1d2960a4-3054-48c6-b3b0-4d13e248f19c" />
+
+
+<img width="1280" height="978" alt="ist gem" src="https://github.com/user-attachments/assets/ff8e13a0-de9f-4e3c-b6b2-0db0bd8ecd15" />
+
+
 ## Summary of Spacetime Dynamics
 
 | Mechanical Stress | Microscopic Behavior | Spacetime Response | Macroscopic Result |
