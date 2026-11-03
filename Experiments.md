@@ -15,6 +15,8 @@ High-speed (slow-motion) frame analysis captures a dual-arc phenomena that contr
 
 This creates a secondary, perfectly linear, hyper-energetic plasma channel sustaining simultaneously alongside the trigger arc. The geometry forces a local spatial modification, resulting in a distinct energy surge restricted entirely between the two atomic sharp boundaries.
 
-### Next Steps
-- Pouring the common-frame concrete damping foundation.
-- Integrating a non-invasive laser-reflections array on the polished needle shafts to analyze real-time spatial density modulation.
+<img width="1280" height="719" alt="arc2" src="https://github.com/user-attachments/assets/aee10ac1-fc0f-482b-8d5d-61499a5dd217" />
+
+<img width="480" height="853" alt="arc1" src="https://github.com/user-attachments/assets/e9f44613-aba5-44e5-8a40-e00939fbcf4e" />
+
+[![ARC](https://youtube.com)](https://youtube.com)
